@@ -1,0 +1,12 @@
+{
+	"parent": "block/polished_granite_stairs/polished_stairs_inner/x180",
+	"textures": {
+		"0": "block/polished_andesite",
+		"1": "block/polished_stairs/polished_andesite_top",
+		"2": "block/polished_stairs/polished_andesite_leftdown",
+		"3": "block/polished_stairs/polished_andesite_rightdown",
+		"5": "block/polished_stairs/polished_andesite_leftup",
+		"particle": "block/polished_andesite"
+
+  }
+}

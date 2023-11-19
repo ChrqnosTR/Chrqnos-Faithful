@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"0": "block/polished_granite",
+		"1": "block/polished_stairs/polished_granite_slab_side",
+		"2": "block/polished_stairs/polished_granite_top",
+		"4": "block/polished_stairs/polished_granite_leftup",
+		"5": "block/polished_stairs/polished_granite_rightdown",
+		"6": "block/polished_stairs/polished_granite_leftdown",
+		"particle": "block/polished_granite"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#5"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#6"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [0, 0, 8],
+			"to": [8, 8, 16],
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 8, 8, 16], "texture": "#2"},
+				"south": {"uv": [0, 8, 8, 16], "texture": "#5"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#6"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#2"}
+			}
+		}
+	]
+}

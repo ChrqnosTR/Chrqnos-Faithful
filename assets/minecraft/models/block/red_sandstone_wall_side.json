@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_wall_side_sandstone",
+  "textures": {
+    "wall": "minecraft:block/red_sandstone_wall",
+    "wall_top": "minecraft:block/red_sandstone_top",
+    "wall_bottom": "minecraft:block/red_sandstone_bottom"
+  }
+}

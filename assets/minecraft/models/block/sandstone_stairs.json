@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/stairs_sandstone",
+  "textures": {
+    "bottom": "minecraft:block/sandstone_bottom",
+    "top": "minecraft:block/sandstone_top",
+    "side": "minecraft:block/sandstone",
+    "slab": "minecraft:block/sandstone_slab",
+    "stairs": "minecraft:block/sandstone_stairs"
+  }
+}
