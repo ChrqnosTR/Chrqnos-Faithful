@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 18,
-    "supported_formats": [16,18],
+    "pack_format": 4,
     "description": "Chrqnos Faithful"
   }
 }
