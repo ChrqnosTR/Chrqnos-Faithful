@@ -1,0 +1,11 @@
+{
+	"parent": "block/polished_granite_stairs/polished_stairs_inner/x180y180",
+	"textures": {
+		"0": "block/polished_deepslate",
+		"1": "block/polished_stairs/polished_deepslate_top",
+		"4": "block/polished_stairs/polished_deepslate_leftdown",
+		"5": "block/polished_stairs/polished_deepslate_rightdown",
+		"particle": "block/polished_deepslate"
+
+  }
+}
